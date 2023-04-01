@@ -42,8 +42,9 @@ Ping me on linkedIn for any queries.
 
 ## How to run?
 To be added by the candidate
-npm install 
-npm run server
+npm install //toInstallDependencies
+npm run server //toRunServer
+npm run test //toRunTestCases
 
 ## Deadline
 Please complete it within 3 days of assignment. 
