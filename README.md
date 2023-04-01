@@ -42,6 +42,8 @@ Ping me on linkedIn for any queries.
 
 ## How to run?
 To be added by the candidate
+npm install 
+npm run server
 
 ## Deadline
 Please complete it within 3 days of assignment. 
